@@ -3,11 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,8b5cf6,ec4899&height=300&section=header&text=Mahmoud%20Zaafan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Machine%20Learning%20Engineer%20|%20AI%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<!-- Dynamic Typing Animation with Multiple Lines -->
+<!-- Typing Animation -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=🤖+Building+Intelligent+AI+Solutions+with+99.5%25+Accuracy;🧠+NLP+%26+Deep+Learning+Specialist+|+Computer+Vision+Expert;🏆+Competitive+Programming+Level+3+|+DEPI+Graduate)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Building+Intelligent+AI+Solutions;🧠+NLP+%26+Computer+Vision+Specialist;🏆+Competitive+Programmer&font=Fira%20Code&center=true&width=600&height=50&color=6366F1&vCenter=true&size=22&pause=1000" />
 </div>
 
 <!-- Animated Social Links with Hover Effects -->
@@ -55,10 +53,10 @@
 - 🎓 **CS Student** @ October 6 University (**GPA: 3.8**)
 - 🚀 **DEPI Graduate** - Data Science & AI Track
 - 💡 Specialized in **ML**, **NLP**, and **Computer Vision**
-- 🏆 **Level 3** Competitive Programmer
-- 🔭 Building **Advanced AI Models** with **99%+ Accuracy**
+- 🏆 **Certified Competitive Programmer** At Coach Academy Level 3
+- 🔭 Building **Advanced AI Models**
 - 🌱 Exploring **Transformers**, **GANs**, and **MLOps**
-- 💬 Ask me about **Deep Learning** and **Arabic NLP**
+- 💬 Ask me about **Computer Vision** and **Arabic NLP**
 - ⚡ Fun fact: I can solve algorithm problems faster than making coffee ☕
 
 </td>
@@ -77,54 +75,33 @@
 
 <div align="center">
 
-<a href="https://github.com/Mahmoud-Zaafan/machine-translation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=machine-translation&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
+<a href="https://github.com/Mahmoud-Zaafan/English-Arabic-Machine-Translation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=English-Arabic-Machine-Translation&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
 </a>
+
 <a href="https://github.com/Mahmoud-Zaafan/human-activity-recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=human-activity-recognition&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
 </a>
 <a href="https://github.com/Mahmoud-Zaafan/isee-assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=isee-assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
 </a>
-<a href="https://github.com/Mahmoud-Zaafan/competitive-programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=competitive-programming&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
-</a>
+
+
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **🌐 Machine Translation Model** | Neural translation system for English-Arabic with 17,319 clean sentence pairs | <nobr>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;![Transformer](https://img.shields.io/badge/-Transformer-4285F4?style=flat-square&logo=Google&logoColor=white)</nobr> |
+| **🏃 Human Activity Recognition** | HAR system using WISDM dataset with CNN-Bidirectional LSTM | <nobr>![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)&nbsp;![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-013243?style=flat-square&logo=PyTorch&logoColor=white)</nobr> |
+| **👁️ ISEE Virtual Assistant** | Assistive system for visually impaired with real-time object detection | <nobr>![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=YOLO&logoColor=black)&nbsp;![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)&nbsp;![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)</nobr> |
 
 </div>
 
-### 🎯 Project Highlights
 
-<table>
-<tr>
-<td width="33%">
-<h4 align="center">🌐 Machine Translation</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/Accuracy-99.5%25-brightgreen?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Dataset-17.3K_Pairs-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Model-Transformer-orange?style=flat-square" />
-</p>
-</td>
-<td width="33%">
-<h4 align="center">🏃 Activity Recognition</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/Accuracy-99.3%25-brightgreen?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Architecture-CNN--BiLSTM-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Dataset-WISDM-orange?style=flat-square" />
-</p>
-</td>
-<td width="33%">
-<h4 align="center">👁️ ISEE Assistant</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/NLP_Accuracy-98%25-brightgreen?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Tech-YOLO_V8-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Platform-Mobile-orange?style=flat-square" />
-</p>
-</td>
-</tr>
-</table>
+
 
 <!-- GitHub Stats with Animation -->
 ## 📊 GitHub Analytics
@@ -158,7 +135,7 @@
 
 ### 🧠 Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,jupyter,vscode,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,vscode,pycharm,git,github,linux&theme=dark" />
 </p>
 
 ### ☁️ Cloud & Deployment
@@ -192,8 +169,6 @@
 
 | 🎯 Achievement | 📊 Metric | 🏆 Recognition |
 |:--------------:|:---------:|:--------------:|
-| Machine Translation Model | **99.5%** Accuracy | Top Performance |
-| Human Activity Recognition | **99.3%** Accuracy | State-of-the-Art |
 | ISEE Virtual Assistant | **98%** NLP Accuracy | Innovation Award |
 | Competitive Programming | **Level 3** | Coach Academy |
 | DEPI Program | **Graduate** | Ministry of Communications |
