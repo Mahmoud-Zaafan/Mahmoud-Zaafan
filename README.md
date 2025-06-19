@@ -169,7 +169,7 @@
 
 | 🎯 Achievement | 📊 Metric | 🏆 Recognition |
 |:--------------:|:---------:|:--------------:|
-| ISEE Virtual Assistant | **98%** NLP Accuracy | Innovation Award |
+| ISEE Virtual Assistant | NLP Accuracy | Innovation Award |
 | Competitive Programming | **Level 3** | Coach Academy |
 | DEPI Program | **Graduate** | Ministry of Communications |
 
@@ -196,14 +196,6 @@ Edge AI Deployment
 Arabic LLM Fine-tuning<br>
 Real-time CV Systems<br>
 MLOps Pipelines
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-3cd8d0a7-8889-4b2e-bc14-c5e7a5c15c7e.gif" width="100">
-<br>
-<b>Exploring</b><br>
-Quantum ML<br>
-Neuromorphic Computing<br>
-AI Ethics
 </td>
 </tr>
 </table>
@@ -236,16 +228,6 @@ AI Ethics
 </div>
 </details>
 
-<!-- Snake Animation -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoud-Zaafan/Mahmoud-Zaafan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoud-Zaafan/Mahmoud-Zaafan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahmoud-Zaafan/Mahmoud-Zaafan/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <!-- Quote -->
 <div align="center">
@@ -264,10 +246,10 @@ AI Ethics
   <br>
   
   **Open for collaborations on AI/ML projects and research opportunities!**
-  
 </div>
 
 <!-- Wave Animation Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,8b5cf6,ec4899&height=100&section=footer" width="100%" />
 </div>
+
