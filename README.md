@@ -5,9 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=🤖+Building+Intelligent+AI+Solutions;🧠+NLP+%26+Deep+Learning+Specialist;🎯+99.5%25+Accuracy+on+Translation+Models;🏆+Competitive+Programming+Level+3" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Building+Intelligent+AI+Solutions;🧠+NLP+%26+Deep+Learning+Specialist;🎯+99.5%25+Accuracy+on+Translation+Models;🏆+Competitive+Programming+Level+3&font=Fira%20Code&center=true&width=600&height=50&color=6366F1&vCenter=true&size=22&pause=1000" />
 </div>
 
 <!-- Social Links -->
