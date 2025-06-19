@@ -113,6 +113,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Zaafan&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" width="100%"/>
 </div>
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoud-Zaafan/Mahmoud-Zaafan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoud-Zaafan/Mahmoud-Zaafan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahmoud-Zaafan/Mahmoud-Zaafan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- Achievements -->
 ## 🏆 Achievements & Certifications
