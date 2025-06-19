@@ -3,11 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,8b5cf6,ec4899&height=300&section=header&text=Mahmoud%20Zaafan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Machine%20Learning%20Engineer%20|%20AI%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
+
 <!-- Typing Animation -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=🤖+Building+Intelligent+AI+Solutions;🧠+NLP+%26+Deep+Learning+Specialist;🎯+99.5%25+Accuracy+on+Translation+Models;🏆+Competitive+Programming+Level+3)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Building+Intelligent+AI+Solutions;🧠+NLP+%26+Computer+Vision+Specialist;🏆+Competitive+Programmer&font=Fira%20Code&center=true&width=600&height=50&color=6366F1&vCenter=true&size=22&pause=1000" />
 </div>
 
 <!-- Social Links -->
