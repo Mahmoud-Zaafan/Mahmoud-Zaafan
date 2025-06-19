@@ -50,7 +50,7 @@
 </td>
 <td width="50%">
 
-- 🎓 **CS Student** @ October 6 University (**GPA: 3.8**)
+- 🎓 **AI Student** @ October 6 University (**GPA: 3.8**)
 - 🚀 **DEPI Graduate** - Data Science & AI Track
 - 💡 Specialized in **ML**, **NLP**, and **Computer Vision**
 - 🏆 **Certified Competitive Programmer** At Coach Academy Level 3
