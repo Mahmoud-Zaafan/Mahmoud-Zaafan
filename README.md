@@ -50,7 +50,7 @@
 </td>
 <td width="50%">
 
-- 🎓 **AI Student** @ October 6 University (**GPA: 3.8**)
+- 🎓 **AI Student** @ October 6 University (**CGPA: 3.8**)
 - 🚀 **DEPI Graduate** - Data Science & AI Track
 - 💡 Specialized in **ML**, **NLP**, and **Computer Vision**
 - 🏆 **Certified Competitive Programmer** At Coach Academy Level 3
@@ -63,12 +63,6 @@
 </tr>
 </table>
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud-Zaafan&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
 
 <!-- Featured Projects with Live Demo Links -->
 ## 🚀 Featured Projects
