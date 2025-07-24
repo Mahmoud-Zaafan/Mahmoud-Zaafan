@@ -19,13 +19,14 @@
   <a href="tel:+201030802125">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/mahmoudzaafan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
 
 <!-- Profile Views and Followers -->
 <div align="center">
@@ -92,9 +93,9 @@
   
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **🌐 Machine Translation Model** | Neural translation system for English-Arabic with 17,319 clean sentence pairs | <nobr>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;![Transformer](https://img.shields.io/badge/-Transformer-4285F4?style=flat-square&logo=Google&logoColor=white)</nobr> |
-| **🏃 Human Activity Recognition** | HAR system using WISDM dataset with CNN-Bidirectional LSTM | <nobr>![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)&nbsp;![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-013243?style=flat-square&logo=PyTorch&logoColor=white)</nobr> |
-| **👁️ ISEE Virtual Assistant** | Assistive system for visually impaired with real-time object detection | <nobr>![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=YOLO&logoColor=black)&nbsp;![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)&nbsp;![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)</nobr> |
+| **🧠 Brain-Computer Interface (BCI)** | Advanced BCI system for MTC-AIC3 Competition with Enhanced EEGNet architecture. Achieved 80% accuracy on hidden test set with F1-scores > 0.77 | <nobr>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-013243?style=flat-square&logo=PyTorch&logoColor=white)</nobr> |
+| **📊 Retail Customer Behavior Analysis** | Analyzed 471,910 transactions from 4,212 customers with ML algorithms from scratch. Achieved 93.07% accuracy with 18 engineered features | <nobr>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)</nobr> |
+| **🏃 Human Activity Recognition** | HAR system using WISDM dataset with CNN-BiLSTM architecture. Achieved 99.56% accuracy with 25% false positive reduction | <nobr>![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)&nbsp;![LSTM](https://img.shields.io/badge/-LSTM-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;![CNN](https://img.shields.io/badge/-CNN-00599C?style=flat-square&logo=TensorFlow&logoColor=white)</nobr> |
 
 </div>
 
@@ -111,7 +112,6 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Zaafan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahmoud_Zaafan&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
 </div>
 
 <!-- Contribution Graph with Animation -->
@@ -165,11 +165,12 @@
 
 <div align="center">
 
-| 🎯 Achievement | 📊 Metric | 🏆 Recognition |
-|:--------------:|:---------:|:--------------:|
-| ISEE Virtual Assistant | NLP Accuracy | Innovation Award |
-| Competitive Programming | **Level 3** | Coach Academy |
-| DEPI Program | **Graduate** | Ministry of Communications |
+| 🎯 Achievement | 📊 Details | 🏆 Recognition |
+|:--------------:|:----------:|:--------------:|
+| **DEPI Program Graduate** | 500+ hours intensive training | Ministry of Communications |
+| **Competitive Programming** | Level 3 - Advanced Algorithms | Coach Academy |
+| **.NET Technologies** | C# & SQL Server (60 hours) | Information Technology Institute |
+| **BCI Competition** | 80% accuracy on hidden test | MTC-AIC3 |
 
 </div>
 
@@ -207,12 +208,13 @@ MLOps Pipelines
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Completed Machine Translation Model with 99.5% accuracy
-2. 💪 Opened PR in Human Activity Recognition project
-3. 🚀 Released ISEE Virtual Assistant v1.0
-4. ⭐ Starred awesome-arabic-nlp repository
-5. 📝 Updated documentation for all projects
+1. 🧠 Completed **BCI‑System** project with 80 % SSVEP classification accuracy using Enhanced EEGNet & Multi‑Head Attention  
+2. 🛒 Finalized **Retail‑and‑Supermarket‑Customer‑Behavior‑Analysis** pipeline, achieving 93.07 % accuracy on 471K+ transactions  
+3. 🤖 Released **Human‑Activity‑Recognition** models (CNN‑GRU‑Attention, Transformer, BiLSTM), cutting false positives by 25 %  
 <!--END_SECTION:activity-->
+
+</details>
+
 
 </details>
 
