@@ -71,18 +71,18 @@
 <div align="center">
 
 <a href="https://github.com/Mahmoud-Zaafan/BCI-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=BCI-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=BCI-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&cache_seconds=300&t=20250725" />
 </a>
 
 <a href="https://github.com/Mahmoud-Zaafan/Retail-and-Supermarket-Customer-Behavior-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=Retail-and-Supermarket-Customer-Behavior-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=Retail-and-Supermarket-Customer-Behavior-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&cache_seconds=300&t=20250725" />
 </a>
 
 <a href="https://github.com/Mahmoud-Zaafan/Human-Activity-Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=Human-Activity-Recognition&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Zaafan&repo=Human-Activity-Recognition&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&cache_seconds=300&t=20250725" />
 </a>
 
-</div>
+</div
 
 
 
