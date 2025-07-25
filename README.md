@@ -16,7 +16,7 @@
   <a href="https://github.com/Mahmoud-Zaafan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="tel:+201030802125">
+  <a href="https://wa.me/201030802125">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/mahmoudzaafan/">
@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
 
 <!-- Profile Views and Followers -->
 <div align="center">
