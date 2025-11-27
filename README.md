@@ -50,8 +50,8 @@
 </td>
 <td width="50%">
 
-- 🎓 **AI Student** @ October 6 University (**CGPA: 3.8**)
-- 🚀 **DEPI Graduate** - Data Science & AI Track
+- 🎓 **AI Graduate** @ October 6 University
+- 🚀 **DEPI Graduate** - Microsoft ML Track
 - 💡 Specialized in **ML**, **NLP**, and **Computer Vision**
 - 🏆 **Certified Competitive Programmer** At Coach Academy Level 3
 - 🔭 Building **Advanced AI Models**
